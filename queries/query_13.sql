@@ -2,9 +2,9 @@
 And promotion from Engineer to Senior Engineer means their is a path from Node ’Engineer’ to Node ’Senior Engineer’. 
 Find out pairs of node of source and destination (src, dst) which there is no such path in the database. 
 Sort the result by src then dst. The result is shown as following:
-src  				dst
+src  				        dst
 Assistant Engineer  Assistant Engineer
-Engineer 			Assistant Engineer
+Engineer 			      Assistant Engineer
 ...
 The result table shows that there is no path from Assistant Engineer to Assistant
 Engineer and neither Engineer to Assistant Engineer. That means there is no
